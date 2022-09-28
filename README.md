@@ -12,5 +12,6 @@
 
 [Ряд Фибоначчи, таблица умножения восьмеричной системы и перевод из недесятичной в десятичную(Excel) - всё в книге1](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B01.xlsx)
 
+[Dillinger](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/Dillinger%20(1).pdf)
 
 
