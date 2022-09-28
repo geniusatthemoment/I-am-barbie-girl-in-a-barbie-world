@@ -1,2 +1,6 @@
-# I-am-barbie-girl-in-a-barbie-world
-If you do not like barbie girl song, leave this place right new
+У меня есть программы:
+перевод из n-ой сиситемы счисления в десятичную
+перевод из десятичной в n-ую систему
+Морзянка
+Морзянка(excel)
+
