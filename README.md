@@ -14,4 +14,5 @@
 
 [Dillinger](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/Dillinger%20(1).pdf)
 
+[Код Хемминга(Python)]()
 
