@@ -18,3 +18,4 @@
 
 [Логика в Calc](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%20.xlsx)
 
+<image src=
