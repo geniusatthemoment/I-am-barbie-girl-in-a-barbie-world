@@ -20,7 +20,7 @@
 
 [Шоу профессий](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/82a695fd5d375272317a531ba99414258682a02c/927D2C74-90CF-4C48-8AF5-6293EA40A804.png)
 
-[Логика в Python]()
+[Логика в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/buleva%20algebra.py)
        
        
        
