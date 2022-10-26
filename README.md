@@ -21,6 +21,8 @@
 [Шоу профессий](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/82a695fd5d375272317a531ba99414258682a02c/927D2C74-90CF-4C48-8AF5-6293EA40A804.png)
 
 [Логика в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/buleva%20algebra.py)
+
+[Работа с Automatic mouse and keyboard](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
        
        
        
