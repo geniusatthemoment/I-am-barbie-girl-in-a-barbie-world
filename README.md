@@ -24,7 +24,8 @@
 
 [Работа с Automatic mouse and keyboard](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
        
-       
+ ![image](https://user-images.githubusercontent.com/114457112/200462443-4328cad2-92e3-49df-aee2-a317222e2489.png)
+      
        
        
        
