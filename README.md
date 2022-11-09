@@ -28,6 +28,9 @@
  
  
  (A\wedge B)\vee C= (A\vee C)\wedge (B\vee C)
+ 
+ ![image](https://user-images.githubusercontent.com/114457112/200717199-43b26143-7ddc-435e-91dc-2586c66e2e06.png)
+
       
        
        
