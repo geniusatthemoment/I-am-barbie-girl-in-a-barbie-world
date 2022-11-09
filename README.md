@@ -28,7 +28,7 @@
  ![image](https://user-images.githubusercontent.com/114457112/200463412-caddf906-9f3d-4d61-b438-4e8cd7453245.png)
  
  
- (A\wedge B)\vee C= (A\vee C)\wedge (B\vee C)
+ $$(A\wedge B)\vee C= (A\vee C)\wedge (B\vee C)$$
  
  ![image](https://user-images.githubusercontent.com/114457112/200723863-b6a1d0e9-a10b-4d27-8d44-7745d25ca753.png)
 
