@@ -1,3 +1,4 @@
+## Владелец - Сергей Романов 
 ## У меня есть следующие программы:
 
 [Перевод из n-ой сиситемы счисления в десятичную(Python)](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/commit/faaea85572b541710b34e5834c9c6d88a0ced61d)
