@@ -30,7 +30,7 @@
  
  (A\wedge B)\vee C= (A\vee C)\wedge (B\vee C)
  
- ![image](https://user-images.githubusercontent.com/114457112/200717658-a4ccbc43-8eaf-4428-967f-15fddb2dc63c.png)
+ ![image](https://user-images.githubusercontent.com/114457112/200723863-b6a1d0e9-a10b-4d27-8d44-7745d25ca753.png)
 
       
        
