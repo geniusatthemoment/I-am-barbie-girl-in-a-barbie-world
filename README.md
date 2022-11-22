@@ -25,6 +25,8 @@
 
 [Работа с Automatic mouse and keyboard](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
+[Работа с изображениями в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/adadaa.py)
+
 [Работа с изображениями]()
        
  ![image](https://user-images.githubusercontent.com/114457112/200463412-caddf906-9f3d-4d61-b438-4e8cd7453245.png)
