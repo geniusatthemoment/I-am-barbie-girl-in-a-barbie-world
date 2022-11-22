@@ -27,7 +27,7 @@
 
 [Работа с изображениями в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/adadaa.py)
 
-[Работа с изображениями]()
+
        
  ![image](https://user-images.githubusercontent.com/114457112/200463412-caddf906-9f3d-4d61-b438-4e8cd7453245.png)
  
