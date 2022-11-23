@@ -39,34 +39,7 @@
 
 
 
-import os
-4 v def video:
-5
-di='C:/Users/student/Documents/1326/Пустовалов Михаил/pictore maker' fis-os.listdir (di)
-ims-list (filter (lambda x: x.endswith (" • jpg') , fis) ) clips-[ImageClip (m) .set duration (2) for m in ims1
-9
 
-
-
-
-final clip-concatenate Videoclips (clips, method-'compose")
-10
-
-final clip.write _video?ile (' cool.webm', [ps-24)
-
-
-3
-4'
-from moviepy.editor import
-E import os
-directory = *C:/Users/Lfybk/OneDrive/Рабочий стол/Lessons/Слайд Шоу^
-files = os.listdir(directory)
-imges = List(filter (Lambda x: x.endswith(' jpg'), files))
-clips = [ImageClip(m). set_ duration(2) for m in imges]
-7
-8
-final_clip = concatenate_videoclips(cLips, method='compose')
-final_cLip.vrite_videofile('test.mp4*;fps=24)
       
        
        
