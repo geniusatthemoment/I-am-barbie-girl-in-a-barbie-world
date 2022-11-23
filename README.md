@@ -36,6 +36,19 @@
  
  ![image](https://user-images.githubusercontent.com/114457112/200723863-b6a1d0e9-a10b-4d27-8d44-7745d25ca753.png)
 
+
+
+
+import os
+4 v def video:
+5
+di='C:/Users/student/Documents/1326/Пустовалов Михаил/pictore maker' fis-os.listdir (di)
+ims-list (filter (lambda x: x.endswith (" • jpg') , fis) ) clips-[ImageClip (m) .set duration (2) for m in ims1
+9
+final clip-concatenate Videoclips (clips, method-'compose")
+10
+final clip.write _video?ile (' cool.webm', [ps-24)
+
       
        
        
