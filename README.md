@@ -38,7 +38,9 @@
  
 [Универсальный решатель задач](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/programma.py)
 
-[Пример функции в python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/function.py)
+[Пример функции в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/function.py)
+
+[Викторина в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/victorina.py)
 
 
 
