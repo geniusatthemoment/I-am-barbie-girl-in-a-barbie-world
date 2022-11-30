@@ -25,7 +25,7 @@
 
 [Работа с Automatic mouse and keyboard](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
-[Работа с изображениями в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/adadaa.py)
+[Работа с изображениями и видео в Python]([https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/adadaa.py](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/pravilna%20programma.py))
 
 
        
@@ -37,6 +37,8 @@
  ![image](https://user-images.githubusercontent.com/114457112/200723863-b6a1d0e9-a10b-4d27-8d44-7745d25ca753.png)
  
 [Универсальный решатель задач](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/programma.py)
+
+[Пример функции в python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/function.py)
 
 
 
