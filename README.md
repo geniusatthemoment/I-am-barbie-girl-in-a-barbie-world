@@ -35,6 +35,8 @@
  $$(A\wedge B)\vee C= (A\vee C)\wedge (B\vee C)$$
  
  ![image](https://user-images.githubusercontent.com/114457112/200723863-b6a1d0e9-a10b-4d27-8d44-7745d25ca753.png)
+ 
+[Универсальный решатель задач](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/programma.py)
 
 
 
