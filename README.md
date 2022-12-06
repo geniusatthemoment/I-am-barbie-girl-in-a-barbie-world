@@ -43,14 +43,16 @@
 [Викторина в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/victorina.py)
 
 
-'''mermaid
+```mermaid
+
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-'''
+```
+
 
 
       
