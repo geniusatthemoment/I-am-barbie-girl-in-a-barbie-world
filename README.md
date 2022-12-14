@@ -42,7 +42,7 @@
 
 [Викторина в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/victorina.py)
 
-[Программа с хеммингом, система счисления и морзе(Python)]()
+[Программа с хеммингом, система счисления и морзе(Python)](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/%D0%9F%D0%A0%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.py)
 
 
 
