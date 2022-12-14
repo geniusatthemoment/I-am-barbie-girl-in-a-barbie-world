@@ -42,6 +42,14 @@
 
 [Викторина в Python](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world/blob/main/victorina.py)
 
+[Программа с хеммингом, система счисления и морзе(Python)]()
+
+
+
+
+
+
+
 
 ## Путь лицеиста
 ```mermaid
@@ -62,6 +70,10 @@ E --> W[Плохо]
 K --> P[ВУЗ]
 W --> O[Приключения]
 ```
+
+
+
+
 
 
 
