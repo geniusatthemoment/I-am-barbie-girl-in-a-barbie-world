@@ -1,0 +1,9 @@
+sp = [20,0,2,2,1,10]
+for i in range(len(sp)):
+    for j in range(0, len(sp)-1):
+        if sp[j] > sp[j+1]:
+            temp = sp[j]
+            sp[j] = sp[j+1]
+            sp[j+1] = temp
+            
+print(sp)
